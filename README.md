@@ -1,7 +1,8 @@
 <center><p1>تمبلت بسيط لمشاريع التخرج باستعمال اوبسيديان, صدقة عني وعن والداي وعن كل من كان له الفضل عليّ
-بالتوفيق بإذن الله
-</p1></center>
 
+</p1></center>
+<center><p1>بالتوفيق بإذن الله
+</p1></center>
 # Example : Indoor SLAM Drone Documentation
 Obsidian vault for documenting the a drone project. use it as a template for your own project!
 ## 🗂️ Current Vault Structure
@@ -25,7 +26,7 @@ Obsidian vault for documenting the a drone project. use it as a template for you
 ├── 📁 Papers/
 ├── 📁 Tasks/
 ├── 📁 Templates/
-└── 📄 GPS Denied Indoor SLAM Drone.md (Main Project File)
+└── 📄 Main.md
 ```
 ### 📝 How to Maintain This Vault
 1. 📁Documentation
@@ -45,7 +46,7 @@ Obsidian vault for documenting the a drone project. use it as a template for you
 Check out how to get a pass token below #-git-login-problem
 ```bash
 # 1. Clone the repository
-git clone https://github.com/alyayman921/Indoor-SLAM-Drone-Docs.git
+git clone https://github.com/alyayman921/Project-Obsidian-Vault.git
 cd Indoor-SLAM-Drone-Docs
 
 # 2. Configure their identity
@@ -54,7 +55,7 @@ git config user.email "email@example.com"
 
 # 3. Verify remote
 git remote -v
-# Should show: origin  https://github.com/alyayman921/Indoor-SLAM-Drone-Docs.git 
+# Should show: origin  https://github.com/alyayman921/Project-Obsidian-Vault.git 
 ```
 ### Always start with pulling latest changes:
 ```bash
@@ -62,8 +63,8 @@ git remote -v
 git pull origin main
 
 # 2. Create a new branch for your work
+# if you own the repo, skip this step
 git checkout -b your_name(ie.aly)
-
 ```
 ### Commit your changes
 ```bash
@@ -72,7 +73,7 @@ git checkout -b your_name(ie.aly)
 git add .
 
 # 5. Commit with descriptive message
-git commit -m "docs: add ORB-SLAM3 implementation notes
+git commit -m "docs: add XYZ implementation notes
 - Link to relevant hardware specs"
 ```
 
@@ -80,7 +81,7 @@ git commit -m "docs: add ORB-SLAM3 implementation notes
 # 6. Push the branch to origin
 git push -u origin module_name
 ```
-then make a [pull request](https://github.com/alyayman921/Indoor-SLAM-Drone-Docs) to merge with main branch 
+then make a pull request to merge with main branch 
 
 ## 🔐 git Login Problem
 ```
