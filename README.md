@@ -1,5 +1,8 @@
 <center><p1>تمبلت بسيط لمشاريع التخرج باستعمال اوبسيديان, صدقة عني وعن والداي وعن كل من كان له الفضل عليّ</p1></center>
 <center><p1>بالتوفيق بإذن الله</p1></center>
+
+---
+
 # Example : SLAM Drone Documentation
 Obsidian vault for documenting a drone graudation project. use it as a template for your own project!
 ## 🗂️ Current Vault Structure
