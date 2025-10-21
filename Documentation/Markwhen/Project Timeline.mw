@@ -1,0 +1,17 @@
+```button
+name Open Timeline View
+type command
+action Markwhen: Open timeline view
+```
+
+**or better**
+
+![[Pasted image 20251014184939.png]]
+# Project Timeline
+%%Here goes your timeline %%
+group Core Development
+  2025-09-01 / 2025-11-1: Literature review #green
+  2025-09-01 / 2025-11-1: Cost Calculation #orange
+  2025-10-01 / 2025-11-15: Construct simulation  #blue
+  2025-10-01/ 2025-11-15: FinalizingPreliminary Model #red
+endGroup

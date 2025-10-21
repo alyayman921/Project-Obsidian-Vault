@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documentation/SSTL-Requests/Components_Request_V_1.0.2.pdf",
+                "page": 1,
+                "left": -4,
+                "top": 842,
+                "zoom": 0.5114896190284217
+              },
+              "icon": "lucide-file-text",
+              "title": "Components_Request_V_1.0.2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c93552c2131774f3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9ce6b8747b3bef29",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "bc32ec99277fda4a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "772fe90db306822b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "80619ef213f9b6e5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d3a7a96633d65c02",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fc2f48105724b328",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Model Based Design Course Using Simulink.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f6b10c9ec0b89aa4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Topics/Chapter 2/Propulsion System.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "2947c937dfad2141",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Topics/Chapter 2/Propulsion System.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "3b5a191a0a2f6d2d",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "handwritten-notes:Create empty handwritten note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "SLAM INDOOR PROJECT.md",
+    "Documentation/SSTL-Requests/Components_Request_V_1.0.2.pdf",
+    "Topics/Chapter 1/Drawings/roll.md",
+    "Model Based Design Course Using Simulink.md",
+    "Topics/Chapter 0/Simulink Basics.md",
+    "Topics/Chapter 1/Drone Model In The Loop.md",
+    "Topics/Chapter 1/PID Control.md",
+    "Topics/Chapter 2/Hardware In The Loop.md",
+    "Topics/Chapter 2/Propulsion System.md",
+    "Topics/Chapter 2/Motor Control.md",
+    "Topics/Chapter 2/Drawings/ESC.md",
+    "Topics/Chapter 2/Drawings/ESC.svg",
+    "Topics/Chapter 2/Drawings/3s2p.md",
+    "Topics/Chapter 2/Drawings/3s2p.svg",
+    "Topics/Chapter 1/Equations of Motion.md"
+  ]
+}

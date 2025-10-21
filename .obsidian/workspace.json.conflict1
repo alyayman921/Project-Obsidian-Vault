@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SLAM INDOOR.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "SLAM INDOOR"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e85a70dd70878e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "05e32835b27138a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a944d6e7ed6c6a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "803f54d7b82defd7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "31eab78db2bc3742",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210
+  },
+  "right": {
+    "id": "df61db4a26b1590c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b08924c718d5f82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7fb349cfbcb2e7e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "eb82a2deb515aefd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "2437d8cdfee145d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Topics/Chapter 1/DCM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DCM"
+            }
+          },
+          {
+            "id": "d1c72b23bad8db0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0fc8d47782221a31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fafbde4418e33a0b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Topics/DCM.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DCM"
+            }
+          },
+          {
+            "id": "973ec6fb230b9778",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "10f0a208c1ba53d6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 362,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "SLAM INDOOR.md",
+    "Not empty Note.md",
+    "Notes/Slam Course/SLAM Course (2013).md",
+    "Notes/Drone Sizing/Ragey.gif",
+    "Notes/Drone Sizing/cat-angry-cat.gif",
+    "Notes/Drone Sizing/Initial Sizing.md",
+    "facebook.com.md",
+    "Sketch 08-27 01.55.35.md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
+    "Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Sketch 08-27 01.55.35.svg",
+    "Notes/Drone Sizing/cat-angry-cat.gif.1b97d911.partial",
+    "Photos/Pasted image 20250727152656.png",
+    "Photos/Pasted image 20250727152656.png.f2c8da7f.partial",
+    "Photos/Pasted image 20250727152255.png",
+    "Photos/Pasted image 20250727150344.png",
+    "Photos/Pasted image 20250727152255.png.eb7eaf55.partial",
+    "Photos/Pasted image 20250727150344.png.141825bc.partial",
+    "Photos/Pasted image 20250727150258.png",
+    "Photos/Pasted image 20250727150258.png.9418225d.partial",
+    "Photos/Pasted image 20250727144615.png",
+    "Photos/Pasted image 20250725192415.png",
+    "Photos/Pasted image 20250727144615.png.aba4d307.partial",
+    "Photos/Pasted image 20250725192415.png.71ac4e9c.partial",
+    "SLAM Course (2013).md",
+    "Notes/SLAM Course (2013).md",
+    "Topics/Chapter 1/Drone Model In The Loop.md",
+    "Topics/Chapter 1/Sub-Topics/Equations of Motion.md",
+    "Topics/Chapter 1/Sub-Topics/PID Control.md",
+    "Model Based Design Course Using Simulink.md",
+    "Topics/Chapter 0/Simulink Basics.md",
+    "Sketch 08-27 00.42.19.md",
+    "Topics/Chapter 0/Chapter 0.md",
+    "Topics/Chapter 2/Hardware In The Loop.md",
+    "Topics/Chapter 3/Deployment.md",
+    "Topics/Chapter 1/Drawings/DCM_Sketch.md",
+    "Topics/Chapter 2/Sub-Topics/Propulsion System.md",
+    "Topics/Chapter 2/Sub-Topics/Code Generation.md",
+    "Topics/Chapter 2/Sub-Topics/Motor Control.md",
+    "Topics/Chapter 2/Sub-Topics/Motor Mixing.md",
+    "Topics/Chapter 2/Sub-Topics/Upload to MCU.md",
+    "Topics/Chapter 1/Drawings/roll.md"
+  ]
+}

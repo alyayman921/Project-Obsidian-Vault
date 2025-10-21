@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SLAM INDOOR.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "SLAM INDOOR"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e85a70dd70878e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "05e32835b27138a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a944d6e7ed6c6a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "803f54d7b82defd7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "31eab78db2bc3742",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306
+  },
+  "right": {
+    "id": "df61db4a26b1590c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b08924c718d5f82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb82a2deb515aefd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Topics/Chapter 1/Drawings/roll.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
+            }
+          },
+          {
+            "id": "2437d8cdfee145d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Topics/Chapter 1/DCM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DCM"
+            }
+          },
+          {
+            "id": "d1c72b23bad8db0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0fc8d47782221a31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fafbde4418e33a0b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Topics/DCM.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DCM"
+            }
+          },
+          {
+            "id": "973ec6fb230b9778",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "SLAM INDOOR.md",
+    "Notes/Drone Design/Sizing/Initial Sizing.md",
+    "Notes/Drone Design/Configuration/Configuration.md",
+    "Notes/Drone Design/Methodology.md",
+    "Notes/Visual Odometry (OpenCV using Python).md",
+    "Notes/Mohamed Salah Video (SIL).md",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828014902.png",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828014902.png.4a8d3d45.partial",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828014710.png",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828014710.png.5088d3c5.partial",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828014638.png",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828014638.png.8a787edb.partial",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828013448.png",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828013255.png",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828013448.png.9574d977.partial",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828013255.png.dd2754e5.partial",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828013225.png",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828013225.png.5c833d47.partial",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828013157.png",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828013157.png.1532fabe.partial",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828005954.png",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828005954.png.3dfec3e6.partial",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828010155.png",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828010155.png.63ad26ef.partial",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828010101.png",
+    "Notes/Intro to Self Driving Cars/Images/Pasted image 20250828010101.png.76a80caf.partial",
+    "Notes/Intro to Self Driving Cars/Modelling.md",
+    "Notes/Drone Sizing/Initial Sizing.md",
+    "Notes/Drone Design/Configuration/Images/quadConfig.md",
+    "Notes/Drone Design/Configuration.md",
+    "Notes/Drone Design/quadConfig.md",
+    "Intro to Self Driving Cars/Modelling.md",
+    "Notes/Drone Design/Drone Sizing/Initial Sizing.md",
+    "Notes/Slam Course/SLAM Course (2013).md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Untitled.md",
+    "SLAM Course (2013).md",
+    "Notes/SLAM Course (2013).md",
+    "Topics/Chapter 1/Drone Model In The Loop.md",
+    "Topics/Chapter 1/Sub-Topics/Equations of Motion.md",
+    "Topics/Chapter 1/Sub-Topics/PID Control.md",
+    "Model Based Design Course Using Simulink.md",
+    "Topics/Chapter 0/Simulink Basics.md",
+    "Sketch 08-27 00.42.19.md",
+    "Topics/Chapter 0/Chapter 0.md",
+    "Topics/Chapter 2/Hardware In The Loop.md"
+  ]
+}

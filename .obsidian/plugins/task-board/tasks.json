@@ -1,0 +1,432 @@
+{
+    "VaultName": "they look like they know what they're doing",
+    "Modified_at": "2025-10-21T01:00:22.225Z",
+    "Pending": {
+        "Tasks/Module 3.md": [
+            {
+                "id": 2148701289,
+                "legacyId": "",
+                "status": " ",
+                "title": "- [ ] Do something 3",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "dependsOn": [],
+                "filePath": "Tasks/Module 3.md",
+                "taskLocation": {
+                    "startLine": 2,
+                    "startCharIndex": 0,
+                    "endLine": 2,
+                    "endCharIndex": 20
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ],
+        "Tasks/Module 2.md": [
+            {
+                "id": 2884664884,
+                "legacyId": "",
+                "status": " ",
+                "title": "- [ ] Do something 2",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "dependsOn": [],
+                "filePath": "Tasks/Module 2.md",
+                "taskLocation": {
+                    "startLine": 2,
+                    "startCharIndex": 0,
+                    "endLine": 2,
+                    "endCharIndex": 20
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ],
+        "Tasks/Module 1.md": [
+            {
+                "id": 1192214519,
+                "legacyId": "",
+                "status": " ",
+                "title": "- [ ] Do something 1",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "dependsOn": [],
+                "filePath": "Tasks/Module 1.md",
+                "taskLocation": {
+                    "startLine": 2,
+                    "startCharIndex": 0,
+                    "endLine": 2,
+                    "endCharIndex": 20
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ],
+        "Tasks/General.md": [
+            {
+                "id": 2548357024,
+                "legacyId": "",
+                "status": " ",
+                "title": "- [ ] Rename all the modules!",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "dependsOn": [],
+                "filePath": "Tasks/General.md",
+                "taskLocation": {
+                    "startLine": 1,
+                    "startCharIndex": 0,
+                    "endLine": 1,
+                    "endCharIndex": 29
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ],
+        "Tasks/Papers.md": [
+            {
+                "id": 1857227469,
+                "legacyId": "",
+                "status": " ",
+                "title": "- [ ] **Papers 2nd Iteration**",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "dependsOn": [],
+                "filePath": "Tasks/Papers.md",
+                "taskLocation": {
+                    "startLine": 16,
+                    "startCharIndex": 0,
+                    "endLine": 16,
+                    "endCharIndex": 30
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ],
+        "Tasks/2 - Recon.md": [
+            {
+                "id": 3256621560,
+                "legacyId": "",
+                "status": " ",
+                "title": "- [ ] Build and run Reconstruction 2 (4W)",
+                "body": [
+                    "      - COLMAP/Open3D",
+                    "\t- run and test on simulator",
+                    "\t- Documentation"
+                ],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "dependsOn": [],
+                "filePath": "Tasks/2 - Recon.md",
+                "taskLocation": {
+                    "startLine": 21,
+                    "startCharIndex": 0,
+                    "endLine": 24,
+                    "endCharIndex": 16
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ],
+        "Tasks/4 - Vehicle.md": [
+            {
+                "id": 86782017,
+                "legacyId": "",
+                "status": " ",
+                "title": "- [ ] **Task — CAD Model Optimization and Manufacturing Files** 📅 2025-10-16⏫   ",
+                "body": [
+                    "\t-  **Optimize** the CAD model to **minimize weight** while maintaining structural integrity.",
+                    "\t- **Generate manufacturing files**, including **DXF** files for laser cutting and **3D printing files** for additive components."
+                ],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "2025-10-16",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 2,
+                "dependsOn": [],
+                "filePath": "Tasks/4 - Vehicle.md",
+                "taskLocation": {
+                    "startLine": 2,
+                    "startCharIndex": 0,
+                    "endLine": 4,
+                    "endCharIndex": 129
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": 2030343948,
+                "legacyId": "",
+                "status": " ",
+                "title": "- [ ] Do a Finite Element Analysis on our structure ⏳ 2025-10-21 📅 2025-11-21 ⏫ ",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "2025-10-21",
+                "due": "2025-11-21",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 2,
+                "dependsOn": [],
+                "filePath": "Tasks/4 - Vehicle.md",
+                "taskLocation": {
+                    "startLine": 6,
+                    "startCharIndex": 0,
+                    "endLine": 6,
+                    "endCharIndex": 81
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ],
+        "Tasks/3 - Control.md": [
+            {
+                "id": 3871933582,
+                "legacyId": "",
+                "status": " ",
+                "title": "- [ ] **Gazebo Modelling and Simulation** 🔺 📅 2025-10-23",
+                "body": [
+                    "\tBuild a drone model in **Gazebo** based on our CAD frame.",
+                    "\tMount the **camera** and **IMU** sensors in the same positions as in the CAD design.",
+                    "\tIntegrate **PX4** for manual flight control.",
+                    "\tUse the model to collect **sensor measurements** in indoor environments.",
+                    "\tRecord **keyboard control commands** and create a **script** to replay the same control inputs automatically.",
+                    "\tConnect ROS to PX4 via MAVROS"
+                ],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "2025-10-23",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 1,
+                "dependsOn": [],
+                "filePath": "Tasks/3 - Control.md",
+                "taskLocation": {
+                    "startLine": 4,
+                    "startCharIndex": 0,
+                    "endLine": 10,
+                    "endCharIndex": 30
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ],
+        "Tasks/1 - SLAM.md": [
+            {
+                "id": 1410950305,
+                "legacyId": "",
+                "status": " ",
+                "title": "- [ ] Integrate SLAM with reconstruction in simulator (2W)",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "dependsOn": [],
+                "filePath": "Tasks/1 - SLAM.md",
+                "taskLocation": {
+                    "startLine": 9,
+                    "startCharIndex": 0,
+                    "endLine": 9,
+                    "endCharIndex": 58
+                },
+                "completion": "",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ]
+    },
+    "Completed": {
+        "Tasks/Papers.md": [
+            {
+                "id": 570869064,
+                "legacyId": "",
+                "status": "x",
+                "title": "- [x] **Papers 1st Iteration** ✅ 2025-10-18",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "dependsOn": [],
+                "filePath": "Tasks/Papers.md",
+                "taskLocation": {
+                    "startLine": 2,
+                    "startCharIndex": 0,
+                    "endLine": 2,
+                    "endCharIndex": 43
+                },
+                "completion": "2025-10-18",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ],
+        "Tasks/2 - Recon.md": [
+            {
+                "id": 1490639922,
+                "legacyId": "",
+                "status": "x",
+                "title": "- [x] **Research Task 1 — Image Reconstruction Libraries for ORB-SLAM3** ⏫ 📅 2025-10-16 ✅ 2025-10-17",
+                "body": [
+                    "\tEvaluate potential image reconstruction libraries using the following criteria:",
+                    "\t1. **Previous Use with ORB-SLAM3** – Any prior research, projects, or integrations combining the library with ORB-SLAM3.",
+                    "\t2. **Input Compatibility** – Can the library accept ORB-SLAM3 outputs (poses, keyframes, sparse map)? What additional inputs does it require?",
+                    "\t3. **Pros** – Key advantages or strengths.",
+                    "\t4. **Cons** – Limitations, integration challenges, or performance issues.",
+                    "\t5. **RGB-D Support** – Whether it supports RGB-D camera input.",
+                    "\t6. **Compatibility with EuRoC Dataset** – How well it works with EuRoC’s stereo or visual-inertial data."
+                ],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "2025-10-16",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 2,
+                "dependsOn": [],
+                "filePath": "Tasks/2 - Recon.md",
+                "taskLocation": {
+                    "startLine": 3,
+                    "startCharIndex": 0,
+                    "endLine": 10,
+                    "endCharIndex": 105
+                },
+                "completion": "2025-10-17",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": 3097946161,
+                "legacyId": "",
+                "status": "x",
+                "title": "- [x] **Research Task 2 — Data Transmission Hardware Evaluation** ⏫ 📅 2025-10-16 ✅ 2025-10-17",
+                "body": [
+                    "\tEvaluate the candidate hardware options for data transmission — **Telemetry**, **Wi-Fi**, and **SIM-based Internet** — using the following criteria:",
+                    "\t1. **Pros** – Key advantages or strengths of each option.",
+                    "\t2. **Cons** – Limitations, drawbacks, or setup challenges.",
+                    "\t3. **Bandwidth** – Typical data rate and suitability for real-time transmission.",
+                    "\t4. **Range** – Effective communication distance under typical conditions.",
+                    "\t5. **Availability in Egypt** – Ease of sourcing and network coverage locally.",
+                    "\t6. **Ease of Use** – Setup simplicity, reliability, and required hardware/software configuration."
+                ],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "2025-10-16",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 2,
+                "dependsOn": [],
+                "filePath": "Tasks/2 - Recon.md",
+                "taskLocation": {
+                    "startLine": 12,
+                    "startCharIndex": 0,
+                    "endLine": 19,
+                    "endCharIndex": 98
+                },
+                "completion": "2025-10-17",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ],
+        "Tasks/1 - SLAM.md": [
+            {
+                "id": 215548339,
+                "legacyId": "",
+                "status": "x",
+                "title": "- [x] Build and run the ORB-SLAM3 ⏫ 📅 2025-10-16 ✅ 2025-10-16",
+                "body": [
+                    "\t**Task Summary:**",
+                    "\t- Build and run **ORB-SLAM3** from the provided GitHub repository.",
+                    "\t- Use the **EuRoC MAV (drone) dataset** for testing and evaluation.",
+                    "\t- Set up and execute the entire environment **inside a Docker container**."
+                ],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "2025-10-16",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 2,
+                "dependsOn": [],
+                "filePath": "Tasks/1 - SLAM.md",
+                "taskLocation": {
+                    "startLine": 3,
+                    "startCharIndex": 0,
+                    "endLine": 7,
+                    "endCharIndex": 75
+                },
+                "completion": "2025-10-16",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ]
+    },
+    "Notes": []
+}
